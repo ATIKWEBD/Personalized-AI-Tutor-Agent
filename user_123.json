@@ -1,0 +1,19 @@
+{
+    "knowledge_graph": {
+        "Metabolism": {
+            "attempts": 1,
+            "correct": 1,
+            "mastery": 1.0
+        },
+        "Faulty Rna Processing": {
+            "attempts": 3,
+            "correct": 1,
+            "mastery": 0.3333333333333333
+        },
+        "Food preservation": {
+            "attempts": 1,
+            "correct": 1,
+            "mastery": 1.0
+        }
+    }
+}
